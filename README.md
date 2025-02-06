@@ -1,4 +1,4 @@
-# Tutorial prático sobre Git no Debian 12
+# Tutorial prático sobre Git no Debian 12 (por exemplo)
 
 ## Instalação do Git
 No Debian 12, instale o Git executando:
