@@ -88,6 +88,13 @@ Faça o merge:
 git merge desenvolvimento
 ```
 
+## Listando Commits
+Para listar os commits realizados no repositório, use:
+```bash
+git log --oneline
+```
+Isso exibirá uma lista compacta dos commits com seus IDs únicos, permitindo identificar qual commit desfazer.
+
 ## Desfazendo um Merge Errado
 Se o merge do arquivo `guia_git.v02` foi enviado da `desenvolvimento` para a `main` por engano, use:
 ```bash
@@ -122,10 +129,13 @@ Agora você sabe como:
 - Instalar e configurar o Git
 - Criar repositórios e branches
 - Adicionar e desfazer mudanças
+- Listar commits para identificar alterações
 - Realizar merge entre branches
 - Criar e incrementar versões com tags
 - Desfazer um merge incorreto
 
 Esse é um guia básico para o uso eficiente do Git!
+
+
 
 
